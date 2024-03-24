@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/beardedbatben" target="blank"><img src="https://img.shields.io/twitter/follow/beardedbatben?logo=twitter&style=for-the-badge" alt="beardedbatben" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Javascript, Vue, Bulma**
+- 🌱 I’m currently experienced in **Java and Javascript**
 
-- 📝 I regularly write articles on [https://blog.benweese.com](https://blog.benweese.com)
+- 📝 I sometimes write articles on [https://blog.benweese.com](https://blog.benweese.com)
 
-- 💬 Ask me about **Rest-assured, Postman, or Selenium**
+- 💬 Ask me about **Rest-assured, Postman, Playwright, or Selenium**
 
-- 📫 How to reach me **ben.weese@benweese.com**
+- 📫 How to reach me **ben@benweese.com**
 
 - 📄 Know about my experiences [https://www.benweese.com](https://www.benweese.com)
 
