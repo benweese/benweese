@@ -1,33 +1,26 @@
-<h1 align="center">Hi 👋, I'm Ben Weese</h1>
-<h3 align="center">A Software Development Engineer in Test(SDET) from Nebraska</h3>
+### Hi, I'm Ben 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benweese&label=Profile%20views&color=0e75b6&style=flat" alt="benweese" /> </p>
+**Senior QA Engineer** in Lincoln, Nebraska. I build automation frameworks, not just tests.
 
-<p align="left"> <a href="https://twitter.com/beardedbatben" target="blank"><img src="https://img.shields.io/twitter/follow/beardedbatben?logo=twitter&style=for-the-badge" alt="beardedbatben" /></a> </p>
+For 10+ years I've designed and shipped production test platforms across payments, insurance, and healthcare. These days that means Playwright, a high-volume payment platform, and Claude Code agents that turn Jira tickets into test plans and specs I'd actually merge.
 
-- 🌱 I’m currently experienced in **Java and Javascript**
+#### What I'm working on
 
-- 📝 I sometimes write articles on [https://blog.benweese.com](https://blog.benweese.com)
+- **AI test generation:** a Claude Code agent pipeline (planner, generator, healer, page-mapper) that turns a Jira ticket or a whole epic into reviewed Xray manual tests and Playwright automation, with a human review at each stage
+- **AI tooling at scale:** packaging those agents, skills, and commands as a versioned Claude Code plugin, plus a sync CLI that keeps shared guides consistent across QA repos
+- **Payment edge cases:** reversals, refunds, token migration, and race conditions in concurrent transactions
+- **A new public Playwright project**, built from scratch here on GitHub
 
-- 💬 Ask me about **Rest-assured, Postman, Playwright, or Selenium**
+#### Stack I've shipped with
 
-- 📫 How to reach me **ben@benweese.com**
+`Playwright` `JavaScript` `Claude Code` `Rest-Assured` `Selenium` `Groovy / Geb / Spock` `Postman / Newman` `SoapUI` `Jira / Xray / Zephyr` `Bitbucket` `GitLab CI`
 
-- 📄 Know about my experiences [https://www.benweese.com](https://www.benweese.com)
+#### Writing
 
-- ⚡ Fun fact **I run a homelab**
+I write about Playwright, AI-assisted testing, and what actually happens when you ship automation against real systems at **[benweese.com/blog](https://benweese.com/blog/)**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/beardedbatben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beardedbatben" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/benweese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benweese" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11583969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11583969" height="30" width="40" /></a>
-<a href="https://hashnode.com/@benweese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@benweese" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/benweese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="benweese" height="30" width="40" /></a>
-</p>
+#### Elsewhere
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+[benweese.com](https://benweese.com) · [LinkedIn](https://www.linkedin.com/in/benweese/) · [Resume](https://benweese.com/resume/)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/benweese"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="benweese" /></a></p><br><br>
+<sub>Older repos (Selenium, Geb/Spock, Postman, and Python practice frameworks) are archived but still public, as a record of the stacks I came up through.</sub>
